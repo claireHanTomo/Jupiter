@@ -1,0 +1,13 @@
+=====================================================
+This is the code for the Item Recommendation website
+=====================================================
+Website function:
+	Grab local event from TicketMaster
+	Record user’s favorite events
+	Recommend events based on user’s interests
+=====================================================
+Files:
+      Demo.mov: A demo video of the website
+      src:  Back-end code
+      WebContent: Front-end code and libraries
+=====================================================
