@@ -11,3 +11,6 @@ Files:
       src:  Back-end code
       WebContent: Front-end code and libraries
 =====================================================
+Address of Instance on EC2:
+http://3.128.192.234:8080/Jupiter/
+=====================================================
